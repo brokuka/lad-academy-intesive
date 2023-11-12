@@ -13,10 +13,8 @@
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "lib": ["esnext", "dom"],
-    "types": [
-      "node",
-      "vuetify"
-    ],
+    "skipLibCheck": true,
+    "types": ["node", "vuetify"],
     "paths": {
       "@/*": ["src/*"]
     }
