@@ -22,11 +22,6 @@ export default function useUpdateTheme() {
   };
 
   const update = () => {
-    // if (themeStorage.value !== "auto")
-    //   return (theme.global.name.value = themeStorage.value);
-
-    // (theme.global.name.value as Theme) = dark.value ? "dark" : "light";
-
     if (themeStorage.value)
       return (theme.global.name.value = themeStorage.value);
 
