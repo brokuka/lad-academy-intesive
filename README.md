@@ -1,6 +1,6 @@
-# essentials
+# Интесив от Lad Academy
 
-## Project setup
+## Настройка приложения
 
 ```
 # yarn
@@ -16,7 +16,7 @@ pnpm install
 bun install
 ```
 
-### Compiles and hot-reloads for development
+### Режим разработки
 
 ```
 # yarn
@@ -32,7 +32,7 @@ pnpm dev
 bun run dev
 ```
 
-### Compiles and minifies for production
+### Компиляция и минификация для продакшена
 
 ```
 # yarn
@@ -48,7 +48,7 @@ pnpm build
 bun run build
 ```
 
-### Lints and fixes files
+### Линтеры
 
 ```
 # yarn
