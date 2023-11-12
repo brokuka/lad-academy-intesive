@@ -64,6 +64,4 @@ pnpm lint
 bun run lint
 ```
 
-### Customize configuration
 
-See [Configuration Reference](https://vitejs.dev/config/).
